@@ -1,5 +1,10 @@
 # MERN Stack Blog Application 
- 
+
+## Intro
+> Get All Code from Mern-blog- api and Mern-blog-client branches
+> Mern-blog-client `Client Side Code with React UI`
+> Mern-blog-api `Server Side Code with express API`
+
 ### Home Page 
 ![Home](https://user-images.githubusercontent.com/93990691/196036289-a1cc329c-fc03-431a-bda9-547868d84245.png)
 
